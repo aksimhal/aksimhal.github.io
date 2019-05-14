@@ -12,7 +12,9 @@ Welcome!
 
 I completed my graduate studies at Duke University, studying image processing under the supervision of Dr. Guillermo Sapiro.  My current research focuses on studying the effects of cord blood infusions on neurological development for children with autism spectrum disorder by analyzing their connectome.  I also research methods for analyzing brain tissue labeled with antibodies and imaged via confocal microscopy.
 
-On this site, you can find links to prior projects and publications.  Contact me if you have any questions. 
+A list of my publications can be found [here](https://scholar.google.com/citations?user=NefDuV0AAAAJ&hl=en). 
+
+I'm also the founder of [Bull City Classrooms](bullcityclassrooms.org), a Durham nonprofit that organizes volunteer events at local elementary schools on Saturday mornings. 
 
 Cheers, 
 Anish 
