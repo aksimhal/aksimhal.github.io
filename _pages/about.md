@@ -28,3 +28,6 @@ Software tools
 - [Synaptic antibody characterization tool (python)](https://aksimhal.github.io/SynapseAnalysis/)
 
 
+Posters
+======
+Posters which I have presented at SfN conferences can be found [here](https://github.com/aksimhal/posters) along with LaTeX templates. 
