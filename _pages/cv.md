@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-PDF: [link](https://aksimhal.github.io/files/simhal_cv.pdf.)
+PDF - [link](https://aksimhal.github.io/files/simhal_cv.pdf)
