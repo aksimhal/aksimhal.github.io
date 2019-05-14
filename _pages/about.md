@@ -14,7 +14,7 @@ I completed my graduate studies at Duke University, studying image processing un
 
 A list of my publications can be found [here](https://scholar.google.com/citations?user=NefDuV0AAAAJ&hl=en). 
 
-I'm also the founder of [Bull City Classrooms](bullcityclassrooms.org), a Durham nonprofit that organizes volunteer events at local elementary schools on Saturday mornings. 
+I'm also the founder of [Bull City Classrooms](https://bullcityclassrooms.org), a Durham nonprofit that organizes volunteer events at local elementary schools on Saturday mornings. 
 
 Cheers, 
 Anish 
