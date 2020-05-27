@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Anish Simhal"
   avatar           : "profile.jpg"
-  bio              : "Researcher at Duke University"
-  location         : "Durham, NC"
-  employer         :
+  bio              : "Postdoctoral fellow at the Child Mind Institute"
+  location         : "New York, NY"
+  employer         : "Child Mind Institute" 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=NefDuV0AAAAJ&hl=en"
   email            :
