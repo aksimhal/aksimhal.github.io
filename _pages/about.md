@@ -25,7 +25,7 @@ Connectomics, image processing, machine learning/artificial intelligence, MRI, n
 
 Published software tools 
 ======
-- [Ollivier-Ricci curvature for brain connectivity analysis (MATLAB)] (https://github.com/aksimhal/Curvature-ASD-Analysis)
+- [Ollivier-Ricci curvature for brain connectivity analysis (MATLAB)](https://github.com/aksimhal/Curvature-ASD-Analysis)
 - [Probabilistic synapse detection (MATLAB)](https://github.com/aksimhal/synapse-detection-examples)
 - [Probabilistic synapse detection (Python)](https://github.com/aksimhal/synapse-detection-examples)
 - [Synaptic antibody characterization tool (Python)](https://aksimhal.github.io/SynapseAnalysis/)
