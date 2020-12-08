@@ -8,20 +8,27 @@ redirect_from:
   - /about.html
 ---
 
-I'm a postdoctoral fellow at the [Child Mind Institute's Autism Center](https://childmind.org/bio/anish-k-simhal-phd/) where I'm researching graphs derived from MRI data of subjects with autism spectrum disorders. 
 
-I completed graduate school at Duke University (PhD, 2019), studying image processing with Dr. Guillermo Sapiro where I researched methods for analyzing brain tissue labeled with fluorescent antibodies and imaged via light microscopy.  Specifically, I developed methods for detecting synapses in array tomography data without the need for training data and methods for characterizing the performance of synaptic antibodies. I also explored the role of astrocytes on synaptic density in mouse models of FXS syndrome.  Furthermore, I researched the effects of cord blood infusions on neurological development in children with autism spectrum disorder by analyzing their connectome (imaged via diffusion MRI).  
+I am a postdoctoral fellow at the [Child Mind Institute's Autism Center](https://childmind.org/bio/anish-k-simhal-phd/). My research focuses on network analysis to explore brain connectivity, focusing on using Ollivier-Ricci curvature to explore changes in the brain associated with autism. 
+
+I graduated from Duke University (2019) with a PhD under the supervision of Dr. Guillermo Sapiro. There, I created novel methods for detecting and characterizing synapses in mouse brain tissue imaged via array tomography, a hyperspectral imaging method. Additionally, I developed a machine learning framework to detect cervical pre-cancers from multi-channel images collected during a colposcopy.
+
+
 
 My publications can be found on [Google Scholar](https://scholar.google.com/citations?user=NefDuV0AAAAJ&hl=en). Curriculum vitae is [here](https://aksimhal.github.io/files/simhal_cv.pdf). My CMI webpage is [here](https://childmind.org/bio/anish-k-simhal-phd/). 
 
-I'm also the founder of [Bull City Classrooms](https://bullcityclassrooms.org), a Durham nonprofit that organizes volunteer events at elementary schools on Saturday mornings.
 
+
+Research interests 
+======
+Connectomics, image processing, machine learning/artificial intelligence, MRI, network analysis, neurodevelopmental disorders, wearable sensors
 
 Published software tools 
 ======
+- [Ollivier-Ricci curvature for brain connectivity analysis (MATLAB)] (https://github.com/aksimhal/Curvature-ASD-Analysis)
 - [Probabilistic synapse detection (MATLAB)](https://github.com/aksimhal/synapse-detection-examples)
-- [Probabilistic synapse detection (python)](https://github.com/aksimhal/synapse-detection-examples)
-- [Synaptic antibody characterization tool (python)](https://aksimhal.github.io/SynapseAnalysis/)
+- [Probabilistic synapse detection (Python)](https://github.com/aksimhal/synapse-detection-examples)
+- [Synaptic antibody characterization tool (Python)](https://aksimhal.github.io/SynapseAnalysis/)
 
 
 Posters
