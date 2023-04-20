@@ -22,8 +22,8 @@ Using Ollivier-Ricci curvature (a measure of network robustness), we identified 
 
 > A.K. Simhal, K.H. Maclachlan, R. Elkin, J. Zhu, L. Norton, J.O. Deasy, J.H. Oh, S.Z. Usmani, A. Tannenbaum. “Gene interaction network analysis in multiple myeloma detects complex immune dysregulation associated with shorter survival.” 2023. [bioRxiv](https://www.biorxiv.org/content/biorxiv/early/2023/04/07/2023.04.05.535155.full.pdf). 
 
+&nbsp;
 
-</br>
 
 
 Graph Analysis & Diffusion Tensor MRI 
@@ -35,7 +35,7 @@ These papers were the first to use a measure of network robustness, Ollivier-Ric
 > A. K. Simhal, K. L. H. Carpenter, S. Nadeem, J. Kurtzberg, A. Song, A. Tannenbaum, G. Sapiro, G. Dawson. “Measuring robustness of brain networks in autism spectrum disorder with Ricci curvature.” 2020. Scientific Reports.
 
 
-</br>
+&nbsp;
 
 
 
@@ -48,7 +48,7 @@ We developed an image processing pipeline to automate detections of various cerv
 
 > M. N. Asiedu, A. K. Simhal, C. T. Lam, J. Mueller, U. Chaudhary, J. W. Schmitt, G. Sapiro, and N. Ramanujam. “Image processing and machine learning techniques to automate diag- nosis of lugol’s iodine cervigrams for a low-cost point-of-care digital colposcope.” 2018. Optics and Biophotonics in Low-Resource Settings IV. Volume 10485. International Society for Optics and Photonics.
 
-</br>
+&nbsp;
 
 
 Autism Spectrum Disorders & Random Forest Models
@@ -59,7 +59,7 @@ The first paper uses random forest (RF) models to figure what helps kids with AS
 
 > B. Vibert, ..., A. K. Simhal, ..., A. D. Martino. “CRISIS AFAR: An International Collaborative Study of the Impact of the COVID-19 Pandemic on Youth with Autism and Neurodevelopmental Conditions.” 2023. Molecular Autism.
 
-</br>
+&nbsp;
 
 
 Synapse Biology & Image Processing
@@ -72,7 +72,7 @@ This trio of papers presents a novel unsupervised method for synapse detection. 
 
 > A. K. Simhal, C. Aguerrebere, F. Collman, J. T. Vogelstein, K. D. Micheva, R. J. Weinberg, S. J. Smith, and G. Sapiro. “Probabilistic fluorescence-based synapse detection.” 2017. PLoS Computational Biology.
 
-</br>
+&nbsp;
 
 
 Published software tools 
@@ -82,7 +82,7 @@ Published software tools
 - [Probabilistic synapse detection (Python)](https://github.com/aksimhal/synapse-detection-examples)
 - [Synaptic antibody characterization tool (Python)](https://aksimhal.github.io/SynapseAnalysis/)
 
-</br>
+&nbsp;
 
 Posters
 ======
