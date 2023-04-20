@@ -16,7 +16,7 @@ While the focus of my research remains creating novel computer vision and machin
 The full list of publications can be found on [Google Scholar](https://scholar.google.com/citations?user=NefDuV0AAAAJ&hl=en). Curriculum vitae is [here](https://aksimhal.github.io/files/simhal_cv.pdf). 
 
 
-Newest publication 
+Newest publication -- Multiple Myeloma & Graph Analysis
 ----------
 Using Ollivier-Ricci curvature (a measure of network robustness), we identified 118 genes previously unassociated with MM that identify a high risk subtype. 
 
